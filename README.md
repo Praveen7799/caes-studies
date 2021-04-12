@@ -1,1 +1,1 @@
-# caes-studies
+# case-studies
